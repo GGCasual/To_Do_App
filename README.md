@@ -1,4 +1,4 @@
-# To_Do_App
+# To Do App
 A simple To-Do-List to help write out your goals for the day.
 
 # Technologies Used
